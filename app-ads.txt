@@ -709,6 +709,7 @@ g-global.net, 21338, DIRECT
 OWNERDOMAIN=https://maccollier.github.io
 ironsrc.com, 617849, Direct
 ironsrc.com, 617849, DIRECT, a670c89d4a5d5fe5
+ironsrc.com, 617849, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 2464975885, RESELLER
 outbrain.com, 0023749a2264ea0429a71b54ac9ca0de9a, RESELLER
